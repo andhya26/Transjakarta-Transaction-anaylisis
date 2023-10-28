@@ -31,4 +31,4 @@ Dalam konteks urban yang semakin berkembang, Transjakarta dihadapkan pada kebutu
 21. tapOutTime: Waktu ketika pelanggan mengetuk kartu keluar. Tanggal dan waktu.
 22. payAmount: Jumlah yang dibayarkan oleh pelanggan. Beberapa gratis, beberapa tidak.
 # Tableau
-ini tampilan visual menggunakan tableau https://public.tableau.com/app/profile/sankya.sandhya.p/viz/CapstoneTransjakarta/Sheet1
+ini tampilan visual menggunakan tableau https://public.tableau.com/app/profile/sankya.sandhya.p/viz/CapstoneTransjakarta/Story1
